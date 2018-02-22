@@ -1,0 +1,12 @@
+package com.pluralsight;
+
+import java.util.Date;
+
+public class Gaurav {
+	public static void main (String str[])
+	{
+		System.out.println("This is the first line of out.println");
+		System.err.println("This is the first line of err.println");
+		System.out.println("Date::"+new Date());
+	}
+}
